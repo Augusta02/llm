@@ -6,7 +6,7 @@ My coursework and projects for [LLM Zoomcamp](https://github.com/DataTalksClub/l
 
 LLM Zoomcamp is a 10-week course covering Retrieval-Augmented Generation, vector search, embeddings, AI agents, function calling, evaluation, monitoring, hybrid search, and reranking. This repo tracks my homework, notes, and the final capstone project as I work through it.
 
-## Progress
+### Progress
 
 | Module | Topic | Status |
 |---|---|---|
